@@ -14,3 +14,7 @@ This project contains master password generators for various BIOS/UEFI firmware.
 * Phoenix (generic) &mdash; 5 decimal digits
 * Sony &mdash; 7 digit serial number
 * Samsung &mdash; 12 hexadecimal digits
+
+https://biosbypass.com/
+https://biosbypass.com/remove-sony-vaio-bios-password/
+https://biosbypass.com/remove-asus-bios-password/
